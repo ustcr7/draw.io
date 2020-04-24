@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-04-24T12:56:23.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Spwkc20eBUFx1SokVfoI" version="13.0.1" type="github"><diagram id="z_vCCQttQ4E1YuQUzYef" name="Page-1">jZJNb4MwDIZ/TY6TStJCdx1l3WWHiX0cp4h4JFIgKA0F9usXhlNAaNJOsR87tvM6hKVVf7a8kc9GgCZ0J3rCToTSaE9jf4xkmEhCdxMorRKYNINcfQPCkNYqAZdVojNGO9WsYWHqGgq3Ytxa063Tvoxed214CRuQF1xv6YcSTk70SJOZP4EqZegcxfdTpOIhGV9ykVyYboFYRlhqjXGTVfUp6FG8oMt07/GP6G0wC7X7zwX6/irfiheR1ofyeDXJZ1ae7rDKlesWH4zDuiEoYE1bCxiL7Ah76KRykDe8GKOd37ln0lXae5E3t0OFDmAd9AuEQ57BVODs4FMwyg4oGP4Ytke/m/WPgqhyoX2MjOPKy1vpWRVvoDDBnRfwG1t8Y5b9AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-24T12:58:46.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="S4s1oC32MAPJuWqSTCFm" version="13.0.1" type="github">
+  <diagram id="z_vCCQttQ4E1YuQUzYef" name="Page-1">
+    <mxGraphModel dx="1426" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hYsvKlEP_DEyvKOPhKUP-2" value="DB" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hYsvKlEP_DEyvKOPhKUP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYsvKlEP_DEyvKOPhKUP-3" target="hYsvKlEP_DEyvKOPhKUP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYsvKlEP_DEyvKOPhKUP-3" value="StackableDB" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hYsvKlEP_DEyvKOPhKUP-4" value="DBWithTTL" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hYsvKlEP_DEyvKOPhKUP-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYsvKlEP_DEyvKOPhKUP-4" target="hYsvKlEP_DEyvKOPhKUP-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="370" as="sourcePoint" />
+            <mxPoint x="490" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYsvKlEP_DEyvKOPhKUP-9" value="DBImpl" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
